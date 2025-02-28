@@ -19,6 +19,7 @@ bindsym $mod+Shift+Return exec firefox
 bindsym $mod+d+Return exec rofi
 #bindsym $mod+d+Return exec rofi
 #bindsym $mod+d+Return exec rofi
+bindsym  $mod+p exec ~/.config/i3/pywal.sh
 bindsym $mod+f fullscreen toggle
 bindsym $mod+$smod+f floating toggle
 bindsym $mod+$smod+q kill
