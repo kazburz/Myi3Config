@@ -3,10 +3,14 @@
 ### just some notes on my config as I make it :) ###
 
 
- # Base Packages #
+# Base Packages #
  
    yay -S --needed i3 i3status dmenu xorg-server xorg-xinit xorg-xrandr i3lock i3blocks autotiling picom feh python-pywal16 rofi polybar
 
+# Dbus gnome crap #
+
+ yay -S --needed dbus gnome-session gnome-shell gnome-control-center gnome-thumbnail-factory gvfs tumbler dconf dconf-editor gtk3 gtk2 xfce4-settings xdg-user-dirs gnome-themes-extra gnome-icon-theme
+ 
 # CLI Packages #
   
   yay -S kitty fzf tldr yazi nvim
@@ -15,5 +19,7 @@
 
   yay -S lxappearance thunar geany firefox 
 
-# GTK   
+# GTK | Icon | Curosor | Themes
+
+  yay -S Adapta-gtk-theme     
  
