@@ -9,8 +9,14 @@ autotiling
 -------------
 yay -S ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-hack-nerd ttf-terminus-nerd ttf-jetbrains-mono-nerd ttf-firacode-nerd ttf-victor-mono-nerd ttf-material-design-icons ttf-font-awesome powerline-fonts-git
 --------------
-git clone https://github.com/milkmadedev/oreo-cursors-compiled/
+bibata-cursor-theme-bin
 ---------------------------
+gtk-engine-murrine
+gnome-themes-standard
+graphite-gtk-theme
+
+
+
 
 -----------------------
 
