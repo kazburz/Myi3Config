@@ -13,9 +13,10 @@ bibata-cursor-theme-bin
 ---------------------------
 gtk-engine-murrine
 gnome-themes-standard
-graphite-gtk-theme
-
-
+graphite-gtk-theme !!! git version probably needed to.  
+---------------------------------------------------
+https://github.com/vinceliuice/Vimix-icon-theme.git
+-------------------------------------------------------
 
 
 -----------------------
