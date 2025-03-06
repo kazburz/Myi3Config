@@ -7,6 +7,7 @@ pywal
 colorthief
 autotiling
 xrandr
+https://github.com/cytopia/i3-utils.git
 -------------
 yay -S ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-hack-nerd ttf-terminus-nerd ttf-jetbrains-mono-nerd ttf-firacode-nerd ttf-victor-mono-nerd ttf-material-design-icons ttf-font-awesome powerline-fonts-git
 --------------
